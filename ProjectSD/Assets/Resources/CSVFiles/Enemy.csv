@@ -1,0 +1,3 @@
+ID,Description,Model_Info,Type,HP,Damage,Speed,Range_Rec,Range_Att,Range_Ex
+5001,º¸ÅëÁ¹°³,TX_Minion_Normal,1,1,20,1,1000000,1,5
+5002,ºü¸¥Á¹°³,TX_Minion_Fast,2,2,20,2,1000000,1,5
