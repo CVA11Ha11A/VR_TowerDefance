@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SamplesInfoPanel
+  - RoomLight
+  - Bullet
+  - Test
+  - Boss
+  - BossBullet
+  - WeakPoint
+  - Enemy
+  - Explosion
+  - Fire
+  - Unit
+  - Missile
+  - Stun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Terrain
+  - Button
+  - 
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ShopBackGround
+    uniqueID: 377760001
+    locked: 0
+  - name: CheckBuy
+    uniqueID: 2546846905
+    locked: 0
+  - name: UI
+    uniqueID: 2948214493
+    locked: 0
