@@ -1,2 +1,1 @@
-# VR_TowerDefance
-8peoples_2WeekProject
+# Project-SD
